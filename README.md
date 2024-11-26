@@ -54,6 +54,7 @@ The project reads and writes data in JSON format, enabling data integration betw
 To run the code, you need to install Java on your computer. [Download](https://www.java.com/tr/download/ie_manual.jsp)
 
 To run the code, type the following command in CMD:
+After the code is executed, Java will retrieve the data and write it to a JSON file. Python will then process the data from the JSON file and open a new terminal.
 
 ```bash
   java Main.java
