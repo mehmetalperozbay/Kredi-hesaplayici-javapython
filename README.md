@@ -7,7 +7,7 @@ JSON formatında veriyi okur ve yazar, böylece farklı diller arasında veri en
 
 ## Özellikler  
 - Kullanıcıdan kredi bilgileri ve banka seçimi alır.  
-- Faiz oranını ve vade süresini dikkate alarak geri ödeme tutarını hesaplar.  
+- Faiz oranını ve vade süresini dikkate alarak geri ödeme tutarını hesaplar.
 - JSON formatında veri kaydedip okur.  
 - Java arayüzü ve Python arka uç entegrasyonu ile hibrit bir yapı sunar.  
 
@@ -21,6 +21,7 @@ JSON formatında veriyi okur ve yazar, böylece farklı diller arasında veri en
 Kodu çalıştırmanız için bilgisayarınıza java indirmeniz gerekiyor [indir](https://www.java.com/tr/download/ie_manual.jsp)
 
 Kodu çalıştırmak için aşağıdaki komutu CMD'ye yazın.
+Kod çalıştırıldıktan sonra Java verileri alacak ve Json dosyasına yazacaktır. Python Json dosyasından aldığı verileri işleyip yeni bir terminal açıcaktır.
 
 ```bash
   java Main.java
